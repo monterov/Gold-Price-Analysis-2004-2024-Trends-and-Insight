@@ -35,3 +35,10 @@ Las contribuciones son bienvenidas. Si deseas mejorar este análisis, realizar u
 
 Créditos
 Dataset: Los datos fueron proporcionados por novandraanugrah en Kaggle.
+## Dataset
+El dataset utilizado en este proyecto se puede encontrar en Kaggle. Puedes acceder a él a través del siguiente enlace:
+
+[**XAU/USD Gold Price Historical Data (2004-2024)**](https://www.kaggle.com/datasets/novandraanugrah/xauusd-gold-price-historical-data-2004-2024)
+
+Asegúrate de tener una cuenta en Kaggle para poder acceder y descargar el archivo.
+
